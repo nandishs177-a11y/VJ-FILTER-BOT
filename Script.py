@@ -247,10 +247,10 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>File Name : {file_name}
 
-Size : {file_size}
+📂 Size : {file_size}
+📁 File Type : {file_type}
 
-Join : @KNMoviesHub17</b>"""
-
+⚡ Uploaded By : {bot_name}</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -755,6 +755,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
