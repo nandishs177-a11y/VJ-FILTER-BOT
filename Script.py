@@ -244,9 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-  CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
+CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
 
- <b>⚙️ sɪᴢᴇ : {file_size}</b>"""
+<b>⚙️ sɪᴢᴇ : {file_size}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -752,6 +752,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
