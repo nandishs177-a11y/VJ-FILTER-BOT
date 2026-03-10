@@ -254,9 +254,7 @@ Join : @KNMoviesHub17</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
-IMDb Data:
-
-"""<b>🏷 Title</b>: <a href={url}>{title}</a>
+IMDb Data:<b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
@@ -755,6 +753,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
