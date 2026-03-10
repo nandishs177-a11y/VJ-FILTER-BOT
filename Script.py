@@ -247,7 +247,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b> ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
 
-⚙️ sɪᴢᴇ : {file_size}</b>"""
+  sɪᴢᴇ : {file_size}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -753,6 +753,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
