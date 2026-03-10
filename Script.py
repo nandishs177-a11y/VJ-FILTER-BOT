@@ -244,7 +244,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {' '.join([w for w in file_name.split() if not w.startswith('@')])}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
+
+⚙️ sɪᴢᴇ : {file_size}</b>"""
 
  <b>⚙️ sɪᴢᴇ : {file_size}</b>"""
 
@@ -752,6 +754,7 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
 
