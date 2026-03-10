@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name.replace("@VJ_Bots", "")}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name.split(" - ",1)[-1]}
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
@@ -752,5 +752,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
