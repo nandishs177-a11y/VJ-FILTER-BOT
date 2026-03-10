@@ -251,12 +251,13 @@ Size : {file_size}
 
 Join : @KNMoviesHub17</b>"""
 
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 
 IMDb Data:
 
-<b>🏷 Title</b>: <a href="{url}">{title}</a>
+🏷 Title: <a href="{url}">{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href="{url}/releaseinfo">{year}</a>
 🌟 Rating: <a href="{url}/ratings">{rating}</a> / 10 (based on {votes} user ratings.)
@@ -264,13 +265,11 @@ IMDb Data:
 📀 RunTime: {runtime} Minutes
 📆 Release Info : {release_date}
 🎛 Countries : <code>{countries}</code>
-"""
-    
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-Requested by : {message.from_user.mention}</b>"""
-    
+Requested by : {message.from_user.mention}
+"""
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
@@ -756,6 +755,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
