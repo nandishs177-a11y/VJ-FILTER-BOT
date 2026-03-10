@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: 
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
+    CAPTION = """<b> ғɪʟᴇɴᴀᴍᴇ : @KNMoviesHub17 - {file_name}
 
 ⚙️ sɪᴢᴇ : {file_size}</b>"""
 
@@ -752,6 +752,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
