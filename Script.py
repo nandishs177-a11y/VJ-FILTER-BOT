@@ -247,8 +247,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>File Name : {file_name}
 
-📂 Size : {file_size}
-📁 File Type : {file_type}
+"📂 Size : {file_size}"
+"📁 File Type : {file_type}"
 
 ⚡ Uploaded By : {bot_name}</b>"""
     
@@ -755,6 +755,7 @@ STREAM_TXT = """<b><u>HOW TO GET STREAM AND DOWNLOAD LINK :</u>
 
 
     
+
 
 
 
